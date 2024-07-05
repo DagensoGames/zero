@@ -1,0 +1,18 @@
+{
+		"Skin Color":{"label":"","direction":0,"source":"Walk","color":false,"condition":"true","colors":[]},
+		"Shirt":{"label":"","direction":0,"source":"Walk","color":false,"condition":"true","colors":[]},
+		"Pants":{"label":"","direction":0,"source":"Walk","color":false,"condition":"true","colors":[]},
+		"Clothing":{"label":"","direction":0,"source":"Walk","color":false,"condition":"true","colors":[]},
+		"Rear Hair":{"label":"","direction":3,"source":"Walk","color":true,"condition":"true","colors":[]},
+		"Tail":{"label":"","direction":3,"source":"Walk","color":true,"condition":"true","colors":[]},
+		"Wing":{"label":"","direction":3,"source":"Walk","color":true,"condition":"true","colors":[]},
+		"Eyebrows":{"label":"","direction":1,"source":"Face","color":true,"condition":"true","colors":[]},
+		"Nose":{"label":"","direction":0,"source":"Face","color":false,"condition":"true","colors":[]},
+		"Mouth":{"label":"","direction":0,"source":"Face","color":false,"condition":"true","colors":[]},
+		"Eyes":{"label":"","direction":0,"source":"Walk","color":true,"condition":"true","colors":[]},
+		"Front Hair":{"direction":0,"source":"Walk","color":true,"condition":"true","colors":[],"label":""},
+		"Accessory A":{"direction":0,"source":"SV","color":true,"condition":"true","colors":[],"label":""},
+		"Accessory B":{"direction":0,"source":"SV","color":true,"condition":"true","colors":[],"label":""},
+		"Glasses":{"direction":0,"source":"SV","color":true,"condition":"true","colors":[],"label":""},
+		"Beast Ears":{"direction":0,"source":"SV","color":true,"condition":"true","colors":[],"label":""}
+	}
